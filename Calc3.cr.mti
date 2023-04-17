@@ -1,0 +1,127 @@
+/nfs/home/p/p_sethur/Questa/Calc3/shift_input_stage.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/shift_input_stage.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module shift_input_stage
+
+Top level modules:
+	shift_input_stage
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/shift_output_stage.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/shift_output_stage.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module shift_output_stage
+
+Top level modules:
+	shift_output_stage
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/priorty.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/priorty.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module priorty
+
+Top level modules:
+	priorty
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/interface.sv {1 {vlog -work work -vopt -sv /nfs/home/p/p_sethur/Questa/Calc3/interface.sv
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling interface Interface
+
+Top level modules:
+	--none--
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/holdreg.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/holdreg.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module holdreg
+
+Top level modules:
+	holdreg
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/registers.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/registers.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/adder.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/adder.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/calc3_top.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/calc3_top.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module adder
+-- Compiling module adder_input_stage
+-- Compiling module adder_output_stage
+-- Compiling module holdreg
+-- Compiling module mux_out
+-- Compiling module priorty
+-- Compiling module registers
+-- Compiling module shift_input_stage
+-- Compiling module shift_output_stage
+-- Compiling module shifter
+-- Compiling module calc3_top
+
+Top level modules:
+	calc3_top
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/mux_out.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/mux_out.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module mux_out
+
+Top level modules:
+	mux_out
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/adder_input_stage.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/adder_input_stage.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module adder_input_stage
+
+Top level modules:
+	adder_input_stage
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/adder_output_stage.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/adder_output_stage.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module adder_output_stage
+
+Top level modules:
+	adder_output_stage
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/wrapper.sv {1 {vlog -work work -vopt -sv /nfs/home/p/p_sethur/Questa/Calc3/wrapper.sv
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module Wrapper
+
+Top level modules:
+	Wrapper
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/my_package.sv {1 {vlog -work work -vopt -sv /nfs/home/p/p_sethur/Questa/Calc3/my_package.sv
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling package my_package
+** Note: (vlog-2286) Using implicit +incdir+/nfs/sw_cmc/x86_64.EL7/tools/mentor.2011/questasim_10.1/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/shifter.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/shifter.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/top.sv {1 {vlog -work work -vopt -sv /nfs/home/p/p_sethur/Questa/Calc3/top.sv
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module top
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_package
+
+Top level modules:
+	top
+
+} {} {}} /nfs/home/p/p_sethur/Questa/Calc3/adder_test.v {1 {vlog -work work -vopt /nfs/home/p/p_sethur/Questa/Calc3/adder_test.v
+QuestaSim-64 vlog 10.1e Compiler 2013.06 Jun 11 2013
+-- Compiling module adder_test
+
+Top level modules:
+	adder_test
+
+} {} {}}

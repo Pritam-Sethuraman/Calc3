@@ -1,0 +1,190 @@
+UVM_INFO subscriber.svh(48) @ 0: uvm_test_top.env.subscriber [Subscriber] 
+rst=x, scan_in=x, scan_out=z
+[Port1]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port2]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port3]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port4]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+
+UVM_INFO subscriber.svh(48) @ 1: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+
+UVM_INFO subscriber.svh(48) @ 3: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 5: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 7: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 9: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 11: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 13: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 15: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=2, cmd=1011, d1= 1, d2= 4, r1=11, data_in=1563518147
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=2, cmd=0001, d1=15, d2=14, r1=15, data_in=1829856420
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=3, cmd=0001, d1= 8, d2= 7, r1=15, data_in=3578134134
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=2, cmd=0101, d1= 5, d2=11, r1=11, data_in=3464164358
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 17: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=1, scan_out=z
+[Port1]
+	[Inputs] tag_in=2, cmd=0101, d1= 9, d2= 3, r1= 2, data_in=1740322405
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=1, cmd=0110, d1= 7, d2= 6, r1= 5, data_in=3081793259
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=3, cmd=0100, d1= 4, d2= 9, r1=10, data_in=4276399432
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0010, d1=10, d2= 2, r1= 8, data_in=4109135754
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO subscriber.svh(48) @ 19: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0101, d1=10, d2=12, r1= 2, data_in= 386618533
+	[Outputs] resp=10, tag_out=2, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=1100, d1=14, d2= 1, r1= 7, data_in=3476277069
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=1011, d1=14, d2= 4, r1=11, data_in=1465699466
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=1, cmd=0001, d1=11, d2=11, r1=12, data_in=1819164136
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO scoreboard.svh(79) @ 19: uvm_test_top.env.scoreboard [Scoreboard] Passed
+UVM_INFO subscriber.svh(48) @ 21: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=1, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0101, d1= 1, d2=13, r1=13, data_in= 686962262
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=2, cmd=0100, d1=15, d2= 0, r1= 5, data_in=   4878237
+	[Outputs] resp=01, tag_out=2, data_out=         0
+[Port3]
+	[Inputs] tag_in=3, cmd=1010, d1= 3, d2=13, r1=10, data_in= 673577358
+	[Outputs] resp=10, tag_out=3, data_out=         0
+[Port4]
+	[Inputs] tag_in=1, cmd=0110, d1= 0, d2=10, r1= 8, data_in= 731335866
+	[Outputs] resp=01, tag_out=2, data_out=         0
+
+UVM_INFO scoreboard.svh(82) @ 21: uvm_test_top.env.scoreboard [Scoreboard] Failed
+
+UVM_INFO scoreboard.svh(83) @ 21: uvm_test_top.env.scoreboard [Scoreboard] Port           1	Tag           2
+UVM_INFO scoreboard.svh(84) @ 21: uvm_test_top.env.scoreboard [Scoreboard] Request is:
+[Inputs] tag_in=2, cmd=0001, d1=15, d2=14, r1=15, data_in=1829856420
+UVM_INFO scoreboard.svh(85) @ 21: uvm_test_top.env.scoreboard [Scoreboard] Expected: 
+[Outputs] resp=10, tag_out=2, data_out=         0
+UVM_INFO scoreboard.svh(86) @ 21: uvm_test_top.env.scoreboard [Scoreboard] Got: 
+[Outputs] resp=01, tag_out=2, data_out=         0

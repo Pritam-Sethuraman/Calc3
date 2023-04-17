@@ -1,0 +1,4 @@
+library verilog;
+use verilog.vl_types.all;
+entity questa_uvm_pkg is
+end questa_uvm_pkg;
